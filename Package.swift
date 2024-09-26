@@ -20,32 +20,32 @@ let package = Package(
         .binaryTarget(
             name: "core",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/core.xcframework.zip",
-            checksum: "c5d8ee02f1faa58c9de927ede3a14a5a8fa89fe884070e0916d7155733c3f6f4"
+            checksum: "97204e891a72e86b40577fb7e203a0d93a5991d172330bc4e1dd2d55c1d40a20"
         ),
         .binaryTarget(
             name: "CoreBridge",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/CoreBridge.xcframework.zip",
-            checksum: "ee165dcb18e5bfee8a42cbc8c1939ea6f67609011be00a2b8ae8873073a7df54"
+            checksum: "6ecedad98bb4326e5239409bb9558e4a954c52d814e0eb6d4a7196b901144027"
         ),
         .binaryTarget(
             name: "CoreSwiftBridge",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/CoreSwiftBridge.xcframework.zip",
-            checksum: "580c11696df42a8efe9019f7e0e2b573dec39728931808e81db25c97124c0a94"
+            checksum: "aa195aefd0adb93cd1a708fa486c93835e52280d44675e488c77bcf90b28c41c"
         ),
         .binaryTarget(
             name: "MapsNativeBridge",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/MapsNativeBridge.xcframework.zip",
-            checksum: "cea6bd0ecb20ff0b059ccfc29ab48e2f0431d7a30c5cd4f0d6e3cc5753a5bd34"
+            checksum: "024da8739029c49e0913709e37fff9510cdbb5b72b6be5fee71255a4707d536a"
         ),
         .binaryTarget(
             name: "MapsNativeSDK",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/MapsNativeSDK.xcframework.zip",
-            checksum: "e28ceb9b3fdd078642d630f3373a6e0dc5632fb36210df43387e0e38740ac565"
+            checksum: "068c41edda85d1c21763d56f4316fc113d5cf1592dd7fe9f3e56f843151a5aa5"
         ),
         .binaryTarget(
             name: "mapsndk",
             url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.3.4645/mapsndk.xcframework.zip",
-            checksum: "08debeecd6d76ba26af6d9fb52630d45e563480df673631670cc49c2fb407f18"
+            checksum: "2e698692a27bf3f550d0322ddc584b30fda1834059a9c5c815a5506c0dd5bf7d"
         )
     ]
 )
