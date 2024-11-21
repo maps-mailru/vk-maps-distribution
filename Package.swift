@@ -19,33 +19,33 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "core",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/core.xcframework.zip",
-            checksum: "f4b91ebde233b9fb24ac374be5dbdd3befa38417272958e6117bf69efd22cb20"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/core.xcframework.zip",
+            checksum: "8a07c817b710b7cab975ce513afeed8a3495465ae07431801ec9fef0e73e25a0"
         ),
         .binaryTarget(
             name: "CoreBridge",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/CoreBridge.xcframework.zip",
-            checksum: "c6798858a4d564283ab66abca69e8451785ebec5e900a839b71fc4196394d546"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/CoreBridge.xcframework.zip",
+            checksum: "572905b83aaebfcbb30939b32fd59335a7fd8676e1d0eb5b3aecad3d3e362d80"
         ),
         .binaryTarget(
             name: "CoreSwiftBridge",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/CoreSwiftBridge.xcframework.zip",
-            checksum: "9f30789d95df6ecdac6e8bc6829b9007601b5f1d98adfd432b83977d54307905"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/CoreSwiftBridge.xcframework.zip",
+            checksum: "2721d08daaeef77c2f08413ba34596390581da6fbeaa0b58818ddc3b7380f317"
         ),
         .binaryTarget(
             name: "MapsNativeBridge",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/MapsNativeBridge.xcframework.zip",
-            checksum: "28681bc2fb07c7e40abeadd6d030e1bbaf6dcc4e3ee1face890aa5e14ddd2618"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/MapsNativeBridge.xcframework.zip",
+            checksum: "cc5bc3092a8574f18886bc6d2a5cf0d828af43c727d122cecbded494b97c0bfd"
         ),
         .binaryTarget(
             name: "MapsNativeSDK",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/MapsNativeSDK.xcframework.zip",
-            checksum: "ca60924b1505dc1ff13c59469ef1c7b1b6b146102d2992c8834e24ed370d1a8d"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/MapsNativeSDK.xcframework.zip",
+            checksum: "2a5e21f5fcda28c3e8f76950b3e5b0c21e5724102b4649bd95393456ec8d9e7e"
         ),
         .binaryTarget(
             name: "mapsndk",
-            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5239/mapsndk.xcframework.zip",
-            checksum: "84b35c2522b447349b5bc494473492841fc83eb2ad3636091b15e2ae413fb595"
+            url: "https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5249/mapsndk.xcframework.zip",
+            checksum: "d7b8111be6e3f971224efd35a5edaedba815e245b755f638ac34f01e0dcd39e2"
         )
     ]
 )
