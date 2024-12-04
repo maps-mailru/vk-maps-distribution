@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name          = 'VKMapsSDK'
-  s.version       = '0.4.5366'
+  s.version       = '0.4.5400'
   s.summary       = 'VK Maps SDK for iOS'
   s.homepage      = 'https://maps.vk.com'
   s.author        = { 'VKMapsSDK' => 'support.maps@lists.vk.team' }
   s.license       = { :type => 'Commercial'}
-  s.source        = { :http => 'https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5366/VKMapsSDK.zip',
+  s.source        = { :http => 'https://github.com/maps-mailru/vk-maps-distribution/releases/download/0.4.5400/VKMapsSDK.zip',
                       :flatten => false }
   s.swift_version = '5.10'
   s.platform     = :ios, '15.0'
